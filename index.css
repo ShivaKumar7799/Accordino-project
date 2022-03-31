@@ -1,0 +1,28 @@
+body{
+        background-color: aliceblue;
+        margin: 0 10%;
+}
+h1{
+        text-align: center;
+        text-decoration: underline;
+        margin-bottom: 40px;
+        color: blue;
+}
+.article{
+        display: none;
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif
+}
+.Btn{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        font-size: 16px;
+        padding: 10px;
+        font-weight: 600;
+        background-color: white;
+
+}
+.Btn:hover{
+        background-color: gainsboro;
+}       
